@@ -1,4 +1,3 @@
-### Hi there 👋
 <!---**gomezpoloalexanderjunior/gomezpoloalexanderjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
  <p align="center">Alexander Junior Gomez Polo</p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=Ingeniero+de+Sistemas+;Desarrollador+FullStack;Desarrollador+Web;Autodidacta)](https://git.io/typing-svg)
