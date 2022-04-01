@@ -2,7 +2,7 @@
  # <p align="center">Alexander Junior Gomez Polo</p>
  
  <p align="center">
-  <a href="https://github.com/gomezpoloalexanderjunior/gomezpoloalexanderjunior"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Ingeniero+de+Sistemas;Desarrollador+FullStack;Programador+Web; Autodidacta)](https://git.io/typing-svg"></a>
+  <a href="https://github.com/gomezpoloalexanderjunior/gomezpoloalexanderjunior"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Ingeniero+de+Sistemas;Desarrollador+FullStack;Programador+Web;Autodidacta)]https://git.io/typing-svg"></a>
 </p>
 🔭 I’m currently working on Freelance<br/>
 🌱 I’m currently learning Angular 10 <br/>
