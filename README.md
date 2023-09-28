@@ -4,8 +4,8 @@
  <p align="center">
   <a href="https://github.com/gomezpoloalexanderjunior/gomezpoloalexanderjunior"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Ingeniero+de+Sistemas;Desarrollador+FullStack;Programador+Web;Autodidacta"></a>
 </p>
-🔭 I’m currently working on Freelance<br/>
-🌱 I’m currently learning Angular 10 <br/>
+🔭 Soy programador freelance<br/>
+🌱 Estoy aprendiendo angular 10 <br/>
 
 :pill: &nbsp; Ahora mismo estoy poniendo en practica mis conocimientos de `Java`,`JavaScript`,`css`,`SpringBoot`,`Angular`,`Php`,`React`<br/>
 <!--- 👯 I’m looking to collaborate on ...
